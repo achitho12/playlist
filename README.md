@@ -301,3 +301,13 @@ https://link.zozotv.xyz/Freemium3/unlimited99/298
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-, SUKAN
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-, AMC
+http://stream.tvtap.live:8081/live/us-amc.stream/chunks.m3u8
+#EXTINF:-, STAR MOVIES HD
+https://link.zozotv.xyz/Freemium3/unlimited99/299
+#EXTINF:-, STAR MOVIES SELECT
+https://link.zozotv.xyz/Freemium3/unlimited99/300
+#EXTINF:-, STAR MOVIES SELECT
+https://link.zozotv.xyz/Freemium3/unlimited99/301
