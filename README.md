@@ -317,3 +317,5 @@ http://77.83.117.60:8888/02_7HD_720p/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
 #EXTINF:-, NTB HD
 http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/chunklist_w1864354223.m3u8
+#EXTINF:-, MISSION POSSIBLE
+http://srv46.nf21.net/360p/15-2021-05-26-e8410d0320372811240a8be05457569f.mp4
