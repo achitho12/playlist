@@ -269,3 +269,19 @@ https://omahtv.xyz/stream/vidio-citrabioskop-golive.m3u8
 https://omahtv.xyz/stream/vidio-citra-drama-golive.m3u8
 #EXTINF:-, CITRA DANGDUT
 https://omahtv.xyz/stream/vidio-citra-dangdut-golive.m3u8
+#EXTINF:-, MYTV
+http://210.210.155.35/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
+#EXTINF:-, INEWS
+https://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
+#EXTINF:-, BIOSKOP INDONESIA
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#EXTINF:-, TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-, TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-, TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-, DUNIA LAIN
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+#EXTINF:-, CHAMPIONS 3
+https://omahtv.xyz/stream/vidio-championtv3-golive.m3u8
