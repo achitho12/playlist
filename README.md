@@ -285,3 +285,11 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-, WWE
 http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+#EXTINF:-, MY KIDS
+http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-, SONY TEN 1
+http://209.126.120.91/hls/ten1.m3u8
+#EXTINF:-, SONY TEN 2
+http://209.126.120.91/hls/ten2.m3u8
+#EXTINF:-, SONY TEN 3
+http://209.126.120.91/hls/ten3.m3u8
