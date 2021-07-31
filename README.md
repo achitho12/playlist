@@ -283,5 +283,5 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-, DUNIA LAIN
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
-#EXTINF:-, CHAMPIONS
+#EXTINF:-, WWE
 http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
