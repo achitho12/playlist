@@ -293,3 +293,11 @@ http://209.126.120.91/hls/ten1.m3u8
 http://209.126.120.91/hls/ten2.m3u8
 #EXTINF:-, SONY TEN 3
 http://209.126.120.91/hls/ten3.m3u8
+#EXTINF:-, ESPN 2
+http://stream.tvtap.live:8081/live/espn2hd.stream/chunks.m3u8
+#EXTINF:-, SONY PIX
+https://link.zozotv.xyz/Freemium3/unlimited99/298
+#EXTINF:-, ELEVEN SPORT 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-, ELEVEN SPORT 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
