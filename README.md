@@ -223,7 +223,7 @@ https://link.zozotv.xyz:443/Freemium3/unlimited99/158
 https://link.zozotv.xyz:443/Freemium3/unlimited99/159
 #EXTINF:-, FOX SPORT 2
 https://link.zozotv.xyz:443/Freemium3/unlimited99/160
-#EXTINF:-, FOC SPORT 3
+#EXTINF:-, FOX SPORT 3
 https://link.zozotv.xyz:443/Freemium3/unlimited99/161
 #EXTINF:-, BEIN SPORT 1
 https://link.zozotv.xyz:443/Freemium3/unlimited99/162
@@ -261,3 +261,11 @@ https://link.zozotv.xyz:443/Freemium3/unlimited99/178
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF:-, RTV
 https://abdrahim.my.id/live/maxstream/(41869351-4a9c-4e57-b54b-8cf5dfc919e1).m3u8
+#EXTINF:-, CITRA ENTERTAINMENT
+https://omahtv.xyz/stream/vidio-citra-entertainment-golive.m3u8
+#EXTINF:-, CITRA BIOSKOP
+https://omahtv.xyz/stream/vidio-citrabioskop-golive.m3u8
+#EXTINF:-, CITRA DRAMA
+https://omahtv.xyz/stream/vidio-citra-drama-golive.m3u8
+#EXTINF:-, CITRA DANGDUT
+https://omahtv.xyz/stream/vidio-citra-dangdut-golive.m3u8
